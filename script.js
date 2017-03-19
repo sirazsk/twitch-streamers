@@ -4,7 +4,7 @@
 /**
  * Created by siraz on 28-01-2017.
  */
-var streamers = ["ESL_SC2","FreeCodeCamp","Test_channel"];
+var streamers = ["ESL_SC2","Test_channel"];
 var online = [];
 var statusx = false;
 var url="https://wind-bow.gomix.me/twitch-api/";
